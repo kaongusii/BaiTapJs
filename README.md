@@ -1,2 +1,1 @@
-# NNPTUD_S5
-Code Hang Tuan
+#Le Sy Anh Cao _ 2180605008
